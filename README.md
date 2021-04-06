@@ -1,6 +1,6 @@
-### wesbin
----
-즐겁게 코딩하는 위성빈입니다.
+## wesbin
+
+즐겁게 코딩 중 ⚡
 
 <!--
 **wesbin/wesbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
