@@ -2,9 +2,9 @@
 
 즐겁게 코딩 중 ⚡
 
-평일에는 커밋 🌱
+평일에는 커밋하고 🌱
 
-주말에는 글쓰기 📃
+주말에는 글쓰자 📃
 
 <!--
 **wesbin/wesbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
